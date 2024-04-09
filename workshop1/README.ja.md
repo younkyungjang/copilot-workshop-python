@@ -76,11 +76,11 @@ Enterを押しながらタブを押して、提案を受け入れる必要があ
 
 ### Step 4: Pythonスクリプトの実行
 
-最初のPythonの結果を検証してみよう。TERMINAL**タブをクリックします。
+最初のPythonの結果を検証してみよう。**TERMINAL**タブをクリックします。
 
 ![Terminal](./images/10_Terminal.jpg)
 
-そして、`python locker-distribution.py`と入力してエンターキーを押してください。結果が表示されるます。（表示出力コードがなければ追加してください。）
+そして、`python locker-distribution.py`と入力してエンターキーを押してください。結果が表示されます。（表示出力コードがなければ追加してください。）
 
 ![Python](./images/11_RunPython.jpg)
 
