@@ -1,32 +1,30 @@
 # Python & Flask
 
-## 準備
-PythonとFlask環境を準備してください
+## Preparation
+Please prepare Python and Flask environment
 ```
 python -m pip install flask
 ```
 
-## はじめに
-初めの一歩もCopilot Chatで聞いてみましょう。
-Workshop1のコードを利用します。
+## Introduction
+Let's ask the first step in Copilot Chat.
+We will use the code from Workshop1.
 ```
-この関数をFlaskを利用してAPIアクセスできるようにしたい
+I want to make this function accessible via API using Flask
 ```
 
-## 実行してみましょう
-Flaskを実行しましょう。コマンドを忘れたらCopilot Chatに聞いてみましょう。
+## Let's run it
+Let's run Flask. If you forget the command, ask Copilot Chat.
 
-ヒント
+Hint
 ```
 export FLASK_APP=your_app.py
 flask run
 ```
 
-## 機能追加をしましょう
-Copilotを利用して新しい機能を追加してみましょう
+## Let's add a feature
+Let's add a new feature using Copilot
 
 
 ## Reference
 https://code.visualstudio.com/docs/python/tutorial-flask
-
-

@@ -1,28 +1,30 @@
 # Copilot Workshop with Python
+- [日本語版](README.ja.md)
+- [한국어판](README.kr.md)
 
-## 前提条件
-以下の環境を準備してください。macOS 14.4.1とWindows11での動作を確認しています。演習はVisual Studio Codeで行います。GitHub Copilotをサポートする他のIDEでも参加できますが、ご質問にご回答できない場合があります。
+## Prerequisites
+Please prepare the following environment. We have confirmed operation on macOS 14.4.1 and Windows11. The exercises will be conducted in Visual Studio Code. You can participate with other IDEs that support GitHub Copilot, but there may be questions we cannot answer.
 
 - [Python](https://www.python.org/)
-  - バージョン: Python 3.12
+  - Version: Python 3.12
 - [Visual Studio Code](https://code.visualstudio.com/download)
-  - GitHub Copilotなどの拡張機能。
-  - `.vscode/extensions.json`にリストされているはずなので、ポップアップが表示されるはずです
+  - Extensions such as GitHub Copilot.
+  - Should be listed in `.vscode/extensions.json`, so a popup should appear
   - ![](./img/README_2024-04-09-15-56-49.png)
-  - 下記のようにCopilotアイコンが表示されていることを確認してください。また、アイコンをクリックし`Status:Ready`になっていることをご確認ください。
+  - Please confirm that the Copilot icon is displayed as shown below. Also, click the icon and confirm that it is `Status:Ready`.
   - ![](./img/README_2024-04-10-09-50-48.png)
 
-## 動作確認
-コマンドプロンプトまたはターミナルで `python3 --version` または `python --version`を実行し、`Python 3.12.3` のように出力されること
+## Operation check
+Run `python3 --version` or `python --version` in the command prompt or terminal, and it should output something like `Python 3.12.3`
 
 ### Workshop 1
-Copilotの基本操作を学びます<br>
-[workshop 1](workshop1/README.ja.md)
+You will learn the basic operations of Copilot<br>
+[workshop 1](workshop1/README.md)
 
 ### Workshop 2
-Copilot Chatを体験しましょう<br>
+Experience Copilot Chat<br>
 [workshop 2](workshop2/README.md)
 
 ### Workshop 3
-Copilotの力を借りてPython&Flaskでアプリを開発しましょう<br>
+Develop an app with Python & Flask with the help of Copilot<br>
 [workshop 3](workshop3/README.md)
