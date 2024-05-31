@@ -21,8 +21,8 @@ Copilotの基本操作を学びます<br>
 
 ### Workshop 2
 Copilot Chatを体験しましょう<br>
-[workshop 2](workshop2/README.md)
+[workshop 2](workshop2/README.ja.md)
 
 ### Workshop 3
 Copilotの力を借りてPython&Flaskでアプリを開発しましょう<br>
-[workshop 3](workshop3/README.md)
+[workshop 3](workshop3/README.ja.md)

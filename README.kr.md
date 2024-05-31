@@ -17,12 +17,12 @@
 
 ### 워크샵 1
 Copilot의 기본 작동을 배웁니다<br>
-[워크샵 1](workshop1/README.md)
+[워크샵 1](workshop1/README.kr.md)
 
 ### 워크샵 2
 Copilot 채팅을 경험해 봅니다<br>
-[워크샵 2](workshop2/README.md)
+[워크샵 2](workshop2/README.kr.md)
 
 ### 워크샵 3
 Copilot의 도움을 받아 Python & Flask로 앱을 개발합니다<br>
-[워크샵 3](workshop3/README.md)
+[워크샵 3](workshop3/README.kr.md)
